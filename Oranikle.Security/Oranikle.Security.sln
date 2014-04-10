@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oranikle.Security", "Oranikle.Security\Oranikle.Security.csproj", "{73042F9D-A556-4D32-9170-E4D0522DDC4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oranikle.Security.Studio", "Oranikle.Security.Studio\Oranikle.Security.Studio.csproj", "{39C507FA-0028-43AF-95AB-0A2D2C9B4953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73042F9D-A556-4D32-9170-E4D0522DDC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73042F9D-A556-4D32-9170-E4D0522DDC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73042F9D-A556-4D32-9170-E4D0522DDC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73042F9D-A556-4D32-9170-E4D0522DDC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39C507FA-0028-43AF-95AB-0A2D2C9B4953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C507FA-0028-43AF-95AB-0A2D2C9B4953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C507FA-0028-43AF-95AB-0A2D2C9B4953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C507FA-0028-43AF-95AB-0A2D2C9B4953}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
